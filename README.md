@@ -1,7 +1,7 @@
 # Predicting Weather Conditions — Assignment 10
 
 This project builds a machine learning pipeline to **predict next-day maximum temperature (TMAX)** using historical climate data from **San Antonio, Texas**.  
-It refines the instructor’s baseline notebook into a **clean, reproducible, and presentation-ready workflow** with improved data quality, feature engineering, and model performance.
+It refines the old version baseline notebook into a **clean, reproducible, and presentation-ready workflow** with improved data quality, feature engineering, and model performance.
 
 ---
 
